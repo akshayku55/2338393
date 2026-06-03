@@ -1,0 +1,25 @@
+{
+  "name": "2338393",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akshayku55/2338393.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/akshayku55/2338393/issues"
+  },
+  "homepage": "https://github.com/akshayku55/2338393#readme",
+  "dependencies": {
+    "axios": "^1.17.0",
+    "dotenv": "^17.4.2"
+  }
+}
